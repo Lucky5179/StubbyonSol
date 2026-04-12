@@ -2652,7 +2652,7 @@ var fa = "framer-0Y6PA",
                                     "--framer-text-color": "rgb(255, 255, 255)",
                                   },
                                   children:
-                                    "Built on BASE blockchain with transparent tokenomics and verified smart contracts.",
+                                    "Built on Solana blockchain with transparent tokenomics and verified smart contracts.",
                                 }),
                               }),
                               className: "framer-jvme1z",
