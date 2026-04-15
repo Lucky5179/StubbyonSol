@@ -1667,7 +1667,7 @@ var fa = "framer-0Y6PA",
                             "--framer-text-color": "rgb(255, 255, 255)",
                           },
                           children: e(B, {
-                            href: "https://x.com/stubbyonSol",
+                            href: "https://x.com/SoLStubby",
                             motionChild: !0,
                             nodeId: "TelegramNavBtn",
                             openInNewTab: !0,
@@ -2127,7 +2127,7 @@ var fa = "framer-0Y6PA",
                         e("div", {
                           className: "framer-c1yd3o",
                           children: e(B, {
-                            href: "https://x.com/StubbyonSol",
+                            href: "https://x.com/SoLStubby",
                             motionChild: !0,
                             nodeId: "cvWL6ZWSl",
                             openInNewTab: !0,
@@ -2957,7 +2957,7 @@ var fa = "framer-0Y6PA",
                     e("div", {
                       className: "framer-7uywbk",
                       children: e(B, {
-                        href: "https://x.com/StubbyonSol",
+                        href: "https://x.com/SoLStubby",
                         motionChild: !0,
                         nodeId: "i_Fa9ZOc1",
                         openInNewTab: !0,
